@@ -7,7 +7,7 @@ Estudante de Ciência da Computação no IF Goiano. Enxergo a programação como
 ---
 
 ### 🎯 Atualmente focado em:
-* 🛠️ Ser nível junior em uma linguagem de programação.
+* 🛠️ Ser nível júnior em uma linguagem de programação.
 * 📂 Evoluir e organizar meu portfólio.
 * 🧠 Fortalecer minha base em algoritmos e estrutura de dados.
 
